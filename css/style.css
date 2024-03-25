@@ -197,8 +197,8 @@ background-color: #404bbf;
 
 /* ----------------------footer---------------------- */
 
-footer {
-    background: #2e2f42;
+.section-footer {
+background-color:#2e2f42;
 }
 
 .footer-logo {
